@@ -1,6 +1,3 @@
-install.packages("shiny", repos = "http://cran.us.r-project.org")
-install.packages("jsonlite", repos = "http://cran.us.r-project.org")
-install.packages("dplyr", repos = "http://cran.us.r-project.org")
 library(dplyr)
 library(shiny)
 library(jsonlite)
